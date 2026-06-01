@@ -10,8 +10,7 @@ Full-Stack Software Engineering student with a strong foundation in Spring Boot,
 * ✉️  You can contact me at [achrafkaou2@gmail.com](mailto:achrafkaou2@gmail.com)
 * 🧠  I'm currently learning DevOps and Cloud Computing.
 * 👥  I'm looking to collaborate on backend systems, DevOps pipelines, cloud computing, and cybersecurity projects.
-* 🦇  I'm secretly Batman 
-
+  
 <p align="left">
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" />
